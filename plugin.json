@@ -1,11 +1,11 @@
 {
-  "name": "Actividad de Discord",
+  "name": "Discord Developer",
   "type": "code",
   "category": "temas",
   "author": "Local-Games-Cloud",
   "version": "1.0.0",
   "description": "Tu perfil de Discord muestra en qué estás: navegando por Local Games o jugando, con cronómetro. Se enciende solo al instalarlo y se controla desde la sección Developer.",
-  "logo": "logo.png",
+  "logo": "logo.jpg",
   "repo": "discord-activity",
   "branch": "main",
   "discord": true,

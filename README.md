@@ -1,4 +1,4 @@
-# Actividad de Discord
+# Discord Developer
 
 Plugin de código para Local Games: mientras usas la biblioteca o juegas, tu
 **perfil de Discord** muestra la actividad en tiempo real (con cronómetro).
